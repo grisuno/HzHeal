@@ -1,7 +1,6 @@
 # Subsystem: root
 
 ## app.py
-- Doc: obtener_tasa_muestreo_valida: Obtiene una tasa de muestreo válida para el dispositivo
 - Layer: utility
 - Language: py
 - Symbols:

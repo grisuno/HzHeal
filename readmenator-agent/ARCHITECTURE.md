@@ -6,4 +6,10 @@
 
 ## External Imports
 
-- `app.py` -> numpy, rich.console, rich.progress, rich.prompt, sounddevice, threading, time
+- `app.py` -> `numpy`
+- `app.py` -> `rich.console`
+- `app.py` -> `rich.progress`
+- `app.py` -> `rich.prompt`
+- `app.py` -> `sounddevice`
+- `app.py` -> `threading`
+- `app.py` -> `time`
